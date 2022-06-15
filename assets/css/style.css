@@ -12624,7 +12624,7 @@ figcaption {
 }
 
 .slide {
-  padding-bottom: 100px;
+  /* padding-bottom: 100px; */
   position: relative;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -15328,7 +15328,7 @@ div#featured-project-carousel {
   }
 }
 .tab-navigation-button .nav-item {
-  margin: 0;
+  margin: 3px;
 }
 .tab-navigation-button .nav-item .nav-link {
   border: none;
@@ -17072,7 +17072,7 @@ span.sr-only {
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 60px;
+  /* margin-top: 60px; */
   margin-bottom: -40px;
   margin-right: -40px;
 }
@@ -17084,8 +17084,9 @@ span.sr-only {
 .skill-style-1 li {
   text-align: center;
   box-shadow: var(--shadow-1);
-  margin-right: 40px;
   align-items: center;
+  margin-right: 10px;
+  margin-left: 10px;
   justify-content: center;
   display: flex;
   border-radius: 10px;
@@ -17094,8 +17095,7 @@ span.sr-only {
   margin-top: 0;
   margin-bottom: 40px;
   padding: 20px 30px;
-  flex-basis: 20%;
-  padding: 35px 30px;
+  flex-basis: 23%;
   min-height: 130px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -17560,7 +17560,7 @@ span.sr-only {
 }
 @media only screen and (max-width: 575px) {
   .backto-top > div {
-    bottom: 30px;
+    bottom: 60px;
   }
 }
 .backto-top > div:hover::after {
