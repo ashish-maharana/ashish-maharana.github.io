@@ -15328,7 +15328,7 @@ div#featured-project-carousel {
   }
 }
 .tab-navigation-button .nav-item {
-  margin: 3px;
+  margin: 0;
 }
 .tab-navigation-button .nav-item .nav-link {
   border: none;
