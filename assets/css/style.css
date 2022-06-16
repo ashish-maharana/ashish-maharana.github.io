@@ -19824,5 +19824,11 @@ body.white-version .popup-mobile-menu .primary-menu .has-droupdown .submenu {
 .seperator{
   border : 1px solid rgba(0, 0, 0, 0.2509803922) !important
 }
-
+.custom-text-color{
+  color: #ff014f!important;
+}
+.image-fit{
+  width: 100%!important;
+  height: 120px!important;
+}
 /*# sourceMappingURL=../maps/style.css.map */
