@@ -19831,4 +19831,11 @@ body.white-version .popup-mobile-menu .primary-menu .has-droupdown .submenu {
   width: 100%!important;
   height: 120px!important;
 }
+.image-fit-blog{
+  width: 100%!important;
+  height: 150px!important;
+}
+.thumbnail a{
+  width: 100%!important;
+}
 /*# sourceMappingURL=../maps/style.css.map */
