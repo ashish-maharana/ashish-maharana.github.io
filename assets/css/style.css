@@ -19839,4 +19839,30 @@ body.white-version .popup-mobile-menu .primary-menu .has-droupdown .submenu {
 .thumbnail a{
   width: 100%!important;
 }
+.custom-card-header{
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: small;
+  box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+}
+.custom-card-header .title{
+  display: flex;
+  color: #ff014f;
+  font-size: 35px;
+  border-right: 1px solid #191b1e;
+  margin-right: 15px;
+  padding-right: 10px;
+}
+.custom-card-header .title i{
+  margin: 0 5px;
+}
+.custom-badges-font{
+  font-size: 15px;
+}
+.custom-color{
+  color: #878e99;
+  text-decoration: underline;
+}
 /*# sourceMappingURL=../maps/style.css.map */
