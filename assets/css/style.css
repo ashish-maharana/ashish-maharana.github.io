@@ -7959,7 +7959,8 @@ ul.slick-dots li button {
 }
 
 .border-style {
-  border: 1px solid rgba(0, 0, 0, 0.2509803922) !important;
+  /* border: 1px solid rgba(0, 0, 0, 0.2509803922) !important; */
+  box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
   border-radius: 13px!important;
 }
 
