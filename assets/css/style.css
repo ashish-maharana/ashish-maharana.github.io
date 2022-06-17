@@ -13672,9 +13672,10 @@ figcaption {
 .rn-content-wrapper .header-left .header-thumbnail img {
   border-radius: 15px;
   max-height: 200px;
-  border: 5px solid #1D1E24;
+  padding: 5px;
   position: relative;
   top: -80px;
+  background: linear-gradient(to right, #6a67ce, #fc636b) !important;
 }
 .rn-content-wrapper .header-left .header-info-content {
   margin-left: 30px;
