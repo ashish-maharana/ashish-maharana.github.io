@@ -19865,7 +19865,7 @@ body.white-version .popup-mobile-menu .primary-menu .has-droupdown .submenu {
   color: #878e99;
   text-decoration: underline;
 }
-.rn-portfolio{
-  width:100%;
+.rn-portfolio, .rn-blog{
+  width:100%!important;
 }
 /*# sourceMappingURL=../maps/style.css.map */
