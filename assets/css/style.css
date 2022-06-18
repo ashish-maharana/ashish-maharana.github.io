@@ -13676,7 +13676,7 @@ figcaption {
 .rn-content-wrapper .header-left .header-thumbnail img {
   border-radius: 15px;
   max-height: 200px;
-  padding: 5px;
+  padding: 10px;
   position: relative;
   top: -80px;
   background: linear-gradient(to right, #6a67ce, #fc636b) !important;
