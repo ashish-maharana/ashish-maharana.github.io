@@ -17101,7 +17101,7 @@ span.sr-only {
   box-shadow: var(--shadow-1);
   align-items: center;
   margin-right: 10px;
-  margin-left: 10px;
+  margin-left: 15px;
   justify-content: center;
   display: flex;
   border-radius: 10px;
@@ -17109,9 +17109,9 @@ span.sr-only {
   cursor: pointer;
   margin-top: 0;
   margin-bottom: 40px;
-  padding: 20px 30px;
-  flex-basis: 23%;
-  min-height: 130px;
+  padding: 0px;
+  flex-basis: 10%;
+  min-height: 100px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .skill-style-1 li {
