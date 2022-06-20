@@ -19885,4 +19885,10 @@ body.white-version .popup-mobile-menu .primary-menu .has-droupdown .submenu {
 .text-custom{
   color : var(--color-primary);
 }
+.text-content ul li{
+  font-size: smaller!important;
+}
+.text-content ul{
+  padding: 0px!important;
+}
 /*# sourceMappingURL=../maps/style.css.map */
