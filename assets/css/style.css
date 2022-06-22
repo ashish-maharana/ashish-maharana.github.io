@@ -13682,8 +13682,8 @@ figcaption {
   background: linear-gradient(to right, #6a67ce, #fc636b) !important;
 }
 .rn-content-wrapper .header-left .header-thumbnail img:hover{
-  transition: .30s;
-  transform: rotate(2deg);
+  transition: .50s;
+  border-radius: 0px;
   cursor: pointer;
 }
 .rn-content-wrapper .header-left .header-info-content {

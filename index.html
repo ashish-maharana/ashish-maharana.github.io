@@ -142,7 +142,7 @@
                                                                 <li><i data-feather="check"></i><span>Backend API's Building
                                                                 </span></li>
                                                             </ul>
-                                                            <a class="rn-btn" href="assets/files/Resume.pdf" download><span>DOWNLOAD MY CV</span></a>
+                                                            <a class="rn-btn download-pdf" href="javascript:void(0)"><span>DOWNLOAD MY CV</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1248,6 +1248,9 @@
     
     <script>
         $(document).ready(function() {
+            $(".download-pdf").click(function(){
+                window.open("assets/files/Resume.pdf", "_blank");
+            });
             $(".work-one").click(function(){
                 var pageTitle = $(this).attr('pageTitle');
                 var pageDesc1 = $(this).attr('pageDesc1');
