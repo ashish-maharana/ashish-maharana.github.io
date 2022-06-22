@@ -16620,6 +16620,7 @@ span.sr-only {
   border-radius: 8px;
   transition: var(--transition);
   width: 100%;
+  cursor: pointer;
 }
 .rn-about-area .image-area .thumbnail img:hover {
   transform: scale(1.08);
